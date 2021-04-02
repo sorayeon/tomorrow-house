@@ -1,0 +1,19 @@
+{
+  "name": "tomorrow-house",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "node-sass": "node-sass",
+    "sass": "node-sass -wr styles/main.scss ./style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
